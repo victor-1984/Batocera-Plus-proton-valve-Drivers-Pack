@@ -14,4 +14,4 @@ Luego al ejecutar el seguro "script" es automático y no necesita descargar nada
 
 Recomendacion.
 
-cuando ejecuten el segundo script y cuando la instalación llegue a una ventana de "DirectX 11" y pregunte donde descomprimir para instalar, el recuadro de la ruta escribe a mano /tmp/ y luego preciona en "aceptar o continuar"
+cuando ejecuten el segundo script y cuando la instalación llegue a una ventana de "DirectX 11" y pregunte donde descomprimir para instalar, en el recuadro de la ruta escribe a mano /tmp/ y luego preciona en "aceptar o continuar"
